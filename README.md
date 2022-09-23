@@ -1,1 +1,1 @@
-# IBM_Capstone_Repo
+# IBM Data Science Capstone
